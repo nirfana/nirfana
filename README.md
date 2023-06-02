@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **on some data analysis project**
 
-- 📫 How to reach me **devi.nirfana12@gmail.com**
+- 📫 You can reach me at **devi.nirfana@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
