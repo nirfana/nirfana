@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devi Nirfana Hermawan but you can just call me Nate.</h1>
+<h1 align="center">Hi 👋, you can just call me Nate.</h1>
 <h3 align="center">a Marketing Representative who being enthusiast with data-driven decision making.</h3>
 
 - 🔭 I’m currently working as **a Marketing Representative at a Pharmaceuticals Company.**
