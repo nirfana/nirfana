@@ -18,7 +18,7 @@ I'm **Devi Nirfana Hermawan**, a Data Analyst, Data Scientist, and Data Engineer
 ---
 ### 🛠 Skills
 - **Languages**: Python, SQL, R  
-- **Visualization Tools**: Tableau, Looker Studio, Power BI  
+- **Visualization Tools**: Tableau, Looker Studio
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PySpark, FastAPI  
 - **Cloud & Databases**: PostgreSQL, MongoDB, AWS Glue, Docker, Google BigQuery  
 - **Machine Learning**: Regression, Classification, Clustering, NLP, Deep Learning, Dimensionality Reduction  
