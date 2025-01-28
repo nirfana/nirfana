@@ -5,10 +5,10 @@ I'm **Devi Nirfana Hermawan**, a Data Analyst, Data Scientist, and Data Engineer
 
 ---
 ### 🚀 About Me
-🌱 **Currently Exploring**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and advanced cloud-based solutions.  
-🔍 **Collaboration Interests**: Open to working on end-to-end data solutions, from building scalable pipelines to deploying machine learning models in production.  
-🌐 **Background Insight**: My unique blend of technical expertise and marketing experience helps me create versatile, real-world solutions for industries ranging from e-commerce to healthcare.  
-🎉 **Fun Fact**: I started in marketing and developed a love for numbers, driving me to transition into the dynamic world of data science and engineering.  
+- 🌱 **Currently Exploring**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and advanced cloud-based solutions.  
+- 🔍 **Collaboration Interests**: Open to working on end-to-end data solutions, from building scalable pipelines to deploying machine learning models in production.  
+- 🌐 **Background Insight**: My unique blend of technical expertise and marketing experience helps me create versatile, real-world solutions for industries ranging from e-commerce to healthcare.  
+- 🎉 **Fun Fact**: I started in marketing and developed a love for numbers, driving me to transition into the dynamic world of data science and engineering.  
 
 ---
 ### 📫 Connect with Me
